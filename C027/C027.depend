@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1592109675 source:c:\users\louie\onedrive\орн▒\zerojudge\c027\main.cpp
+	<iostream>
+	<algorithm>
+	<string.h>
+	<math.h>
+
